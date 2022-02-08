@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <html>
  <head>
-  <title>Enter security code</title>
   <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1">
   <link href="https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/O2aKM2iSbOw.png" rel="shortcut icon" sizes="196x196">
   <meta name="referrer" content="origin-when-crossorigin" id="meta_referrer">
